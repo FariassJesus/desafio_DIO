@@ -1,0 +1,15 @@
+E:\je-fa\Documents\dotnet\desafio_DIO\game\bin\Debug\net6.0\game.exe
+E:\je-fa\Documents\dotnet\desafio_DIO\game\bin\Debug\net6.0\game.deps.json
+E:\je-fa\Documents\dotnet\desafio_DIO\game\bin\Debug\net6.0\game.runtimeconfig.json
+E:\je-fa\Documents\dotnet\desafio_DIO\game\bin\Debug\net6.0\game.dll
+E:\je-fa\Documents\dotnet\desafio_DIO\game\bin\Debug\net6.0\game.pdb
+E:\je-fa\Documents\dotnet\desafio_DIO\game\obj\Debug\net6.0\game.csproj.AssemblyReference.cache
+E:\je-fa\Documents\dotnet\desafio_DIO\game\obj\Debug\net6.0\game.GeneratedMSBuildEditorConfig.editorconfig
+E:\je-fa\Documents\dotnet\desafio_DIO\game\obj\Debug\net6.0\game.AssemblyInfoInputs.cache
+E:\je-fa\Documents\dotnet\desafio_DIO\game\obj\Debug\net6.0\game.AssemblyInfo.cs
+E:\je-fa\Documents\dotnet\desafio_DIO\game\obj\Debug\net6.0\game.csproj.CoreCompileInputs.cache
+E:\je-fa\Documents\dotnet\desafio_DIO\game\obj\Debug\net6.0\game.dll
+E:\je-fa\Documents\dotnet\desafio_DIO\game\obj\Debug\net6.0\refint\game.dll
+E:\je-fa\Documents\dotnet\desafio_DIO\game\obj\Debug\net6.0\game.pdb
+E:\je-fa\Documents\dotnet\desafio_DIO\game\obj\Debug\net6.0\game.genruntimeconfig.cache
+E:\je-fa\Documents\dotnet\desafio_DIO\game\obj\Debug\net6.0\ref\game.dll
